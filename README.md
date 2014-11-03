@@ -20,7 +20,7 @@ The entire API consists of: `test`, `is`, `signals`, `run`, and
 
 Running:
 
-    EXAMPLE> (in-package :example)
+    CL-USER> (in-package :example)
     #<PACKAGE "EXAMPLE">
     
     EXAMPLE> (run) ; run all tests
